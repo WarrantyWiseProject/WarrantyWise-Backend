@@ -1,0 +1,1 @@
+"""WarrantyWise FastAPI application."""
